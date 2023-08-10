@@ -1,3 +1,3 @@
-# Data_Analytics
+# Python
 
 Focus: Data manipulation, Data visualization, Statistics, Importing and Cleaning data
